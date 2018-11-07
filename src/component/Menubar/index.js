@@ -11,7 +11,7 @@ let Menubar = (props) => (
             <Toolbar>
                 <Typography variant="title" color="inherit">{props.app.pageTitle}</Typography>
                 <Link to="/">
-                    <Button color="inherit">Home</Button>
+                    <Button color="inherit">Homee</Button>
                 </Link>
                 <Link to="/about">
                     <Button color="inherit">About</Button>

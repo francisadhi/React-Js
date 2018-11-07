@@ -14,7 +14,7 @@ let Menubar = (props) => (
                     <Button color="inherit">Homee</Button>
                 </Link>
                 <Link to="/about">
-                    <Button color="inherit">About</Button>
+                    <Button color="inherit">Abot</Button>
                 </Link>
                 <Link to="/film">
                     <Button color="inherit">Film</Button>

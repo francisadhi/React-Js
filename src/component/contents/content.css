@@ -1,0 +1,12 @@
+
+.btn {
+    /* border-radius: 5px; */
+    display: inline-block;
+    margin: 0;
+    color: aliceblue;
+  }
+  .btn-alt {
+    /* border: 1px solid #dfe2e5; */
+    background-color: #111;
+    padding: 10px 40px;
+  }
